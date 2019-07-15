@@ -7,15 +7,12 @@
 @import "abstracts/mixins";
 @import "abstracts/variables";
 
-@import "pages/home";
+@import "pages/home"; 
 
+@import "layout/grid";
 @import "layout/header";
 
 @import "components/button";
 
 
-
-
-
-
-
+@import "base/base";
